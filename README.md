@@ -17,6 +17,6 @@ Every journey begins with a step. And in the digital world, that starts with vis
 Browsing online will lead you to the list you want.
 ## Shop page
 
-![home tho](img/shoppage.png)
+![home one](img/1.png)
 
 
