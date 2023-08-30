@@ -11,12 +11,12 @@ Every journey begins with a step. And in the digital world, that starts with vis
 
 ![home one](img/homepage.png)
 
+
 # Browsing and selecting
 
 Browsing online will lead you to the list you want.
-
 ## Shop page
 
-![home tho](img/homepage.png)
+![home tho](img/shoppage.png)
 
 
