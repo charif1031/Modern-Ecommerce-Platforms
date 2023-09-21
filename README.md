@@ -41,6 +41,6 @@ BPMN is summarized from the Business Process Model and Notation. It is a standar
 
 This BPMN diagram shows the flow of my ecommerce website. To make it easy for the general public to understand
 
-![home one]
+![home one](img/shark.D.png)
 
 
