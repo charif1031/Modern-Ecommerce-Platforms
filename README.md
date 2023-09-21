@@ -47,6 +47,8 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 - Customer
 
+- Website
+
 - Admin
 
 - Delivery
