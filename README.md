@@ -55,11 +55,15 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 ![home one](img/D.2.jpg)
 
-### Admin
+### Website
 
 ![home one](img/D.3.jpg)
 
-### Delivery
+### Admin
 
 ![home one](img/D.4.jpg)
+
+### Delivery
+
+![home one](img/D.5.jpg)
 
