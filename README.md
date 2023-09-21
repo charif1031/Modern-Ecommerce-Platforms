@@ -53,11 +53,11 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 ### Customer
 
-![home one](img/D.2.jpg)
+![home one](img/D.3.jpg)
 
 ### Website
 
-![home one](img/D.3.jpg)
+![home one](img/D.2.jpg)
 
 ### Admin
 
