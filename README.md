@@ -41,7 +41,7 @@ BPMN is summarized from the Business Process Model and Notation. It is a standar
 
 This BPMN diagram shows the flow of my ecommerce website. To make it easy for the general public to understand
 
-![home one](img/D.1.png)
+![home one](img/D.1.jpg)
 
 # All Pools in BPMN
 
@@ -51,4 +51,15 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 - Delivery
 
+### Customer
+
+![home one](img/D.2.jpg)
+
+### Admin
+
+![home one](img/D.3.jpg)
+
+### Delivery
+
+![home one](img/D.4.jpg)
 
