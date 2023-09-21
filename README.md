@@ -21,19 +21,6 @@ Today, I'm excited to introduce you to our innovative and easy-to-use platform. 
 
 4. Akismet Anti-Spam: Spam Protection is Used by millions, Akismet is quite possibly the best way in the world to protect your blog from spam. It keeps your site protected even while you sleep. To get started, just go to your Akismet Settings page to set up your API key.
 
-# digital storefront
-
-Every journey begins with a step. And in the digital world, that starts with visiting a website. We'll explore how shark manages its digital storefront to deliver a visually appealing and user-friendly experience.
-
-![home one](img/homepage.png)
-
-# Browsing and selecting
-
-Browsing online will lead you to the list you want.
-## Shop page
-
-![home one](img/shoppage.png)
-
 # BPMN Diagram
 
 BPMN is summarized from the Business Process Model and Notation. It is a standard and direction for displaying business information (Business Process Model). It is a part that must explain work to the general public, not just computer scientists or people learning about IT. Come especially understand
@@ -67,4 +54,18 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 ### Delivery
 
 ![home one](img/D.5.jpg)
+
+# digital storefront
+
+Every journey begins with a step. And in the digital world, that starts with visiting a website. We'll explore how shark manages its digital storefront to deliver a visually appealing and user-friendly experience.
+
+![home one](img/homepage.png)
+
+# Browsing and selecting
+
+Browsing online will lead you to the list you want.
+
+## Shop page
+
+![home one](img/shoppage.png)
 
