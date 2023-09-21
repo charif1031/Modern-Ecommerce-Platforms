@@ -43,4 +43,12 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 ![home one](img/Shark.D.png)
 
+# All Pools in BPMN
+
+- Customer
+
+- Admin
+
+- Delivery
+
 
