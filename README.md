@@ -37,6 +37,10 @@ Browsing online will lead you to the list you want.
 
 # BPMN Diagram
 
+BPMN is summarized from the Business Process Model and Notation. It is a standard and direction for displaying business information (Business Process Model). It is a part that must explain work to the general public, not just computer scientists or people learning about IT. Come especially understand
+
+This BPMN diagram shows the flow of my ecommerce website. To make it easy for the general public to understand
+
 ![home one]
 
 
