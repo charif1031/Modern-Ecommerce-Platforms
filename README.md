@@ -35,4 +35,8 @@ Browsing online will lead you to the list you want.
 
 ![home one](img/shoppage.png)
 
+# BPMN Diagram
+
+![home one]
+
 
