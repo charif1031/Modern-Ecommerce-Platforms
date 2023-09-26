@@ -23,9 +23,9 @@ Today, I'm excited to introduce you to our innovative and easy-to-use platform. 
 
 # digital store
 
-Digital websites or online stores allow people to sell products or services through the internet through online channels and can purchase them. Products from your device conveniently and are available in digital stores as follows.
-
 ## Overview 
+
+Digital websites or online stores allow people to sell products or services through the internet through online channels and can purchase them. Products from your device conveniently and are available in digital stores as follows.
 
 ### Home page
 Every journey begins with a step. And in the digital world, that starts with visiting a website. We'll explore how shark manages its digital storefront to deliver a visually appealing and user-friendly experience.
