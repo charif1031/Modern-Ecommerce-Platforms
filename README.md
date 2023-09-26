@@ -33,7 +33,7 @@ Every journey begins with a step. And in the digital world, that starts with vis
 ![home one](img/homepage.png)
 
 ### Shop page
-Browsing online will lead you to the list you want.
+The heart of any digital store is the product catalog. This catalog lists all available products. Includes detailed description, price, high quality images. and related product formats (e.g. size, color)
 
 ![home one](img/shoppage.png)
 
