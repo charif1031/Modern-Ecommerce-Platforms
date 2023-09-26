@@ -38,8 +38,9 @@ The heart of any digital store is the product catalog. This catalog lists all av
 ![home one](img/shoppage.png)
 
 ### Cart
-
 Users can add products to their virtual shopping cart while continuing to browse the store. The shopping cart holds the selected products until the customer is ready to proceed with checkout.
+
+![home one](img/Cart.png)
 
 # BPMN Diagram
 
