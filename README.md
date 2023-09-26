@@ -11,7 +11,7 @@ Today, I'm excited to introduce you to our innovative and easy-to-use platform. 
 
 # Software and Tools Used
 
-1. Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Boo Shop E-Commerce Website before deployment.
+1. Laragon: Laragon is utilized as our local development environment, providing a convenient platform for building and testing the Shark E-Commerce Website before deployment.
 
 2. WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 
