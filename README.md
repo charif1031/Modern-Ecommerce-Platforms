@@ -37,6 +37,10 @@ The heart of any digital store is the product catalog. This catalog lists all av
 
 ![home one](img/shoppage.png)
 
+### Cart
+
+Users can add products to their virtual shopping cart while continuing to browse the store. The shopping cart holds the selected products until the customer is ready to proceed with checkout.
+
 # BPMN Diagram
 
 BPMN is summarized from the Business Process Model and Notation. It is a standard and direction for displaying business information (Business Process Model). It is a part that must explain work to the general public, not just computer scientists or people learning about IT. Come especially understand
