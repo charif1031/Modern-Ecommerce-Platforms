@@ -42,6 +42,11 @@ Users can add products to their virtual shopping cart while continuing to browse
 
 ![home one](img/Cart.png)
 
+### Checkout
+Involves entering shipping information Selecting the desired shipping method and order confirmation It also includes payment processing and order verification.
+
+
+
 # BPMN Diagram
 
 BPMN is summarized from the Business Process Model and Notation. It is a standard and direction for displaying business information (Business Process Model). It is a part that must explain work to the general public, not just computer scientists or people learning about IT. Come especially understand
