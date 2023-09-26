@@ -23,6 +23,8 @@ Today, I'm excited to introduce you to our innovative and easy-to-use platform. 
 
 # digital store
 
+Digital websites or online stores allow people to sell products or services through the internet through online channels and can purchase them. Products from your device conveniently and are available in digital stores as follows.
+
 ## Overview 
 
 ### Home page
