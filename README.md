@@ -31,7 +31,6 @@ Every journey begins with a step. And in the digital world, that starts with vis
 ![home one](img/homepage.png)
 
 ### Shop page
-
 Browsing online will lead you to the list you want.
 
 ![home one](img/shoppage.png)
