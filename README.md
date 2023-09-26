@@ -45,7 +45,10 @@ Users can add products to their virtual shopping cart while continuing to browse
 ### Checkout
 Involves entering shipping information Selecting the desired shipping method and order confirmation It also includes payment processing and order verification.
 
-
+![home one](img/Checkout.1.png)
+![home one](img/Checkout.2.png)
+![home one](img/Checkout.3.png)
+![home one](img/Checkout.4.png)
 
 # BPMN Diagram
 
