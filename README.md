@@ -28,7 +28,7 @@ Today, I'm excited to introduce you to our innovative and easy-to-use platform. 
 Digital websites or online stores allow people to sell products or services through the internet through online channels and can purchase them. Products from your device conveniently and are available in digital stores as follows.
 
 ### Home page
-Every journey begins with a step. And in the digital world, that starts with visiting a website. We'll explore how Shark manages its digital storefront to provide an experience designed to effectively showcase products or services. This includes a clear navigation menu. Search function and eye-catching patterns
+Every journey begins with a step. And in the digital world, that starts with visiting a website. We'll explore how Shark manages its digital storefront to provide a user experience designed to effectively showcase products or services. This includes a clear navigation menu, search functionality and a visually appealing layout.
 
 ![home one](img/homepage.png)
 
