@@ -103,18 +103,19 @@ Customers can track the status of their order through the platform. They may rec
 
 ![home one](img/D.3.jpg)
 
+#### Order Processing and Fulfillment:
+Receive and process incoming orders from customers.
+Generate shipping labels and provide tracking information to customers.
+
 #### Inventory Management:
 Monitor inventory levels in real-time and reorder products as they run low.
 Update product availability status to prevent overselling.
+
 
 #### Content Management:
 Continuously update product listings, descriptions, and images to reflect the latest inventory and prices.
 Add new products and remove discontinued ones.
 Manage other content such as blog posts, FAQs, and user-generated content.
-
-#### Order Processing and Fulfillment:
-Receive and process incoming orders from customers.
-Generate shipping labels and provide tracking information to customers.
 
 ### Admin
 
