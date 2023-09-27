@@ -101,6 +101,8 @@ Customers can track the status of their order through the platform. They may rec
 
 ### Website
 
+The operating process of an ecommerce website involves the ongoing activities and tasks required to maintain, manage, and improve the functionality and performance of the website.
+
 ![home one](img/D.3.jpg)
 
 #### Order Processing and Fulfillment:
