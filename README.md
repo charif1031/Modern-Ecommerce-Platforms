@@ -84,13 +84,14 @@ After finding a product, customers click on it to view detailed information, inc
 Customers can add selected items to their shopping cart. The cart allows them to review and modify their selections before proceeding to checkout.
 
 - **Checkout Process:**
-This is a critical step in the e-commerce process:
+   - Involves entering shipping information Selecting the desired shipping method and order confirmation It also includes payment processing and order verification.  
 
-  <img src="img/Checkout.1.png" alt="Shipping Detail" width="350" height="235">
+    <img src="img/Checkout.1.png" alt="Shipping Detail" width="350" height="235">
 
-- **Shipping Information:** Customers provide shipping details, including the delivery address and preferred shipping method.
+- **Shipping Information:**
+   - Customers provide shipping details, including the delivery address and preferred shipping method.
 
-  <img src="img/Checkout.2.png" alt="Shipping Detail" width="350" height="235">
+     <img src="img/Checkout.2.png" alt="Shipping Detail" width="350" height="235">
 
 - **Payment:** Customers choose a payment method (e.g., credit card, PayPal, Apple Pay) and enter their payment information.
 
