@@ -86,7 +86,7 @@ Customers can add selected items to their shopping cart. The cart allows them to
 - **Checkout Process:**
 This is a critical step in the e-commerce process:
 
-    <img src="img/Checkout.1.png" alt="Shipping Detail" width="350" height="235">
+  <img src="img/Checkout.1.png" alt="Shipping Detail" width="350" height="235">
 
 - **Shipping Information:** Customers provide shipping details, including the delivery address and preferred shipping method.
 
