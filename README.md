@@ -114,6 +114,7 @@ Manage other content such as blog posts, FAQs, and user-generated content.
 
 #### Order Processing and Fulfillment:
 Receive and process incoming orders from customers.
+Generate shipping labels and provide tracking information to customers.
 
 ### Admin
 
