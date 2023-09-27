@@ -103,9 +103,14 @@ Customers can track the status of their order through the platform. They may rec
 
 ![home one](img/D.3.jpg)
 
-#### Product Catalog Management:
-Website administrators manage product listings.
-Product information (images, descriptions, prices) is stored in a database.
+#### Inventory Management:
+Monitor inventory levels in real-time and reorder products as they run low.
+Update product availability status to prevent overselling.
+
+#### Content Management:
+Continuously update product listings, descriptions, and images to reflect the latest inventory and prices.
+Add new products and remove discontinued ones.
+Manage other content such as blog posts, FAQs, and user-generated content.
 
 ### Admin
 
