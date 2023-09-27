@@ -123,6 +123,8 @@ Handle returns and refunds in accordance with the website's policies.
 
 ### Admin
 
+The website admin process in an ecommerce platform involves managing and maintaining the platform to ensure that it runs smoothly and efficiently.
+
 ![home one](img/D.4.jpg)
 
 #### Order Management:
