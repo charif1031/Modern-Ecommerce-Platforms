@@ -139,5 +139,7 @@ Add blog posts, news, or other content to engage customers.
 
 ### Delivery
 
+The shipping process is the final step of the shipping process where the shipped goods are transported to the recipient's location and handed over to the recipient.
+
 ![home one](img/D.5.jpg)
 
