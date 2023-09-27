@@ -93,7 +93,10 @@ Customers can add selected items to their shopping cart. The cart allows them to
 
      <img src="img/Checkout.2.png" alt="Shipping Detail" width="350" height="235">
 
-- **Payment:** Customers choose a payment method (e.g., credit card, PayPal, Apple Pay) and enter their payment information.
+- **Payment:**
+   - Customers choose a payment method (For example, pay by transfer or cash on delivery.) and enter their payment information.
+
+     <img src="img/Checkout.4.png" alt="Shipping Detail" width="350" height="235">
 
 - **Promo Codes/Coupons:** If applicable, customers may enter promo codes or coupons for discounts.
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
