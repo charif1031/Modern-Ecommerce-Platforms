@@ -70,6 +70,8 @@ This BPMN diagram shows the flow of my ecommerce website. To make it easy for th
 
 ### Customer
 
+Shows the customer's process for using the platform.
+
 ![home one](img/D.2.jpg)
 
 ### Website
