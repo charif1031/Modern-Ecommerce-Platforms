@@ -74,19 +74,19 @@ Shows the customer's process for using the platform.
 
 ![home one](img/D.2.jpg)
 
-1.Browsing and Searching:
+1. Browsing and Searching:
 
 Customers search for products or services they are interested in. They can browse through categories, use search filters, or enter specific keywords to find what they want.
 
-2.Product Selection:
+2. Product Selection:
 
 After finding a product, customers click on it to view detailed information, including product descriptions, images, prices, and customer reviews. They may also compare products before making a selection.
 
-3.Adding to Cart:
+3. Adding to Cart:
 
 Customers can add selected items to their shopping cart. The cart allows them to review and modify their selections before proceeding to checkout.
 
-4.Checkout Process:
+4. Checkout Process:
 
 This is a critical step in the e-commerce process:
 Shipping Information: Customers provide shipping details, including the delivery address and preferred shipping method.
@@ -94,15 +94,15 @@ Payment: Customers choose a payment method (e.g., credit card, PayPal, Apple Pay
 Promo Codes/Coupons: If applicable, customers may enter promo codes or coupons for discounts.
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
-5.Payment Authorization:
+5. Payment Authorization:
 
 The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
 
-6.Order Confirmation:
+6. Order Confirmation:
 
 The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
 
-7.Tracking and Notifications:
+7. Tracking and Notifications:
 
 Customers can track the status of their order through the platform. They may receive email or SMS notifications about order updates, shipping progress, and estimated delivery times.
 
