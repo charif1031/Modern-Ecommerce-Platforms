@@ -102,7 +102,9 @@ Customers can add selected items to their shopping cart. The cart allows them to
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
 - **Payment Authorization:**
-The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
+   - The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
+
+     <img src="img/Checkout.5.png" alt="Shipping Detail" width="350" height="235">
 
 - **Order Confirmation:**
 The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
