@@ -77,31 +77,35 @@ Shows the customer's process for using the platform.
 ####  Browsing and Searching:
 Customers search for products or services they are interested in. They can browse through categories, use search filters, or enter specific keywords to find what they want.
 
-####  Product Selection:
+#### Product Selection:
 After finding a product, customers click on it to view detailed information, including product descriptions, images, prices, and customer reviews. They may also compare products before making a selection.
 
-####  Adding to Cart:
+#### Adding to Cart:
 Customers can add selected items to their shopping cart. The cart allows them to review and modify their selections before proceeding to checkout.
 
-####  Checkout Process:
+#### Checkout Process:
 This is a critical step in the e-commerce process:
 Shipping Information: Customers provide shipping details, including the delivery address and preferred shipping method.
 Payment: Customers choose a payment method (e.g., credit card, PayPal, Apple Pay) and enter their payment information.
 Promo Codes/Coupons: If applicable, customers may enter promo codes or coupons for discounts.
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
-####  Payment Authorization:
+#### Payment Authorization:
 The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
 
-####  Order Confirmation:
+#### Order Confirmation:
 The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
 
-####  Tracking and Notifications:
+#### Tracking and Notifications:
 Customers can track the status of their order through the platform. They may receive email or SMS notifications about order updates, shipping progress, and estimated delivery times.
 
 ### Website
 
 ![home one](img/D.3.jpg)
+
+#### Product Catalog Management:
+Website administrators manage product listings.
+Product information (images, descriptions, prices) is stored in a database.
 
 ### Admin
 
