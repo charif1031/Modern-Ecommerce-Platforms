@@ -125,6 +125,14 @@ Handle returns and refunds in accordance with the website's policies.
 
 ![home one](img/D.4.jpg)
 
+#### Order Management:
+View and manage incoming orders from customers.
+Process orders, update order statuses (e.g., processing, shipped), and generate invoices.
+
+#### Content Management:
+Update and maintain website content, including product descriptions, images, and pricing.
+Add blog posts, news, or other content to engage customers.
+
 ### Delivery
 
 ![home one](img/D.5.jpg)
