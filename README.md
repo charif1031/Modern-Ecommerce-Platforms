@@ -74,29 +74,29 @@ Shows the customer's process for using the platform.
 
 ![home one](img/D.2.jpg)
 
-####  Browsing and Searching:
+- Browsing and Searching:
 Customers search for products or services they are interested in. They can browse through categories, use search filters, or enter specific keywords to find what they want.
 
-#### Product Selection:
+- Product Selection:
 After finding a product, customers click on it to view detailed information, including product descriptions, images, prices, and customer reviews. They may also compare products before making a selection.
 
-#### Adding to Cart:
+- Adding to Cart:
 Customers can add selected items to their shopping cart. The cart allows them to review and modify their selections before proceeding to checkout.
 
-#### Checkout Process:
+- Checkout Process:
 This is a critical step in the e-commerce process:
 Shipping Information: Customers provide shipping details, including the delivery address and preferred shipping method.
 Payment: Customers choose a payment method (e.g., credit card, PayPal, Apple Pay) and enter their payment information.
 Promo Codes/Coupons: If applicable, customers may enter promo codes or coupons for discounts.
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
-#### Payment Authorization:
+- Payment Authorization:
 The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
 
-#### Order Confirmation:
+- Order Confirmation:
 The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
 
-#### Tracking and Notifications:
+- Tracking and Notifications:
 Customers can track the status of their order through the platform. They may receive email or SMS notifications about order updates, shipping progress, and estimated delivery times.
 
 ### Website
@@ -105,21 +105,21 @@ The operating process of an ecommerce website involves the ongoing activities an
 
 ![home one](img/D.3.jpg)
 
-#### Order Processing and Fulfillment:
+- Order Processing and Fulfillment:
 Receive and process incoming orders from customers.
 Generate shipping labels and provide tracking information to customers.
 
-#### Inventory Management:
+- Inventory Management:
 Monitor inventory levels in real-time and reorder products as they run low.
 Update product availability status to prevent overselling.
 
 
-#### Content Management:
+- Content Management:
 Continuously update product listings, descriptions, and images to reflect the latest inventory and prices.
 Add new products and remove discontinued ones.
 Manage other content such as blog posts, FAQs, and user-generated content.
 
-#### Customer Support:
+- Customer Support:
 Respond to customer inquiries, complaints, and requests for assistance through various channels (email, chat, phone).
 Handle returns and refunds in accordance with the website's policies.
 
@@ -129,11 +129,11 @@ The website admin process in an ecommerce platform involves managing and maintai
 
 ![home one](img/D.4.jpg)
 
-#### Order Management:
+- Order Management:
 View and manage incoming orders from customers.
 Process orders, update order statuses (e.g., processing, shipped), and generate invoices.
 
-#### Content Management:
+- Content Management:
 Update and maintain website content, including product descriptions, images, and pricing.
 Add blog posts, news, or other content to engage customers.
 
