@@ -112,6 +112,9 @@ Continuously update product listings, descriptions, and images to reflect the la
 Add new products and remove discontinued ones.
 Manage other content such as blog posts, FAQs, and user-generated content.
 
+#### Order Processing and Fulfillment:
+Receive and process incoming orders from customers.
+
 ### Admin
 
 ![home one](img/D.4.jpg)
