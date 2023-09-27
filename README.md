@@ -117,6 +117,10 @@ Continuously update product listings, descriptions, and images to reflect the la
 Add new products and remove discontinued ones.
 Manage other content such as blog posts, FAQs, and user-generated content.
 
+#### Customer Support:
+Respond to customer inquiries, complaints, and requests for assistance through various channels (email, chat, phone).
+Handle returns and refunds in accordance with the website's policies.
+
 ### Admin
 
 ![home one](img/D.4.jpg)
