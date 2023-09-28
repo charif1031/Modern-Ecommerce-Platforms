@@ -99,7 +99,9 @@ Review Order: Customers review their order, including the total cost, before fin
      <img src="img/Checkout.5.png" alt="Shipping Detail" width="350" height="235">
 
 - **Order Confirmation:**
-The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
+   - The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
+
+      <img src="img/Checkout.6.png" alt="Shipping Detail" width="350" height="235">
 
 - **Tracking and Notifications:**
 Customers can track the status of their order through the platform. They may receive email or SMS notifications about order updates, shipping progress, and estimated delivery times.
