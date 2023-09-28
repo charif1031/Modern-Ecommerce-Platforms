@@ -81,8 +81,7 @@ After finding a product, customers click on it to view detailed information, inc
 Customers can add selected items to their shopping cart. The cart allows them to review and modify their selections before proceeding to checkout.
 
 - **Checkout Process:**
-Involves entering shipping information Selecting the desired shipping method and order confirmation It also includes payment processing and order verification.  
-
+Entering shipping information Selection of preferred shipping method and confirmation of order It also includes payment processing and order verification.
    - **Shipping Information:** Customers provide shipping details, including the delivery address and preferred shipping method.
 
        <img src="img/Checkout.1.png" alt="Shipping Detail" width="350" height="235">
