@@ -90,7 +90,7 @@ Entering shipping information Selection of preferred shipping method and confirm
 
        <img src="img/Checkout.4.png" alt="Shipping Detail" width="350" height="235">
 
-- **Promo Codes/Coupons:** If applicable, customers may enter promo codes or coupons for discounts.
+   - **Promo Codes/Coupons:** If applicable, customers may enter promo codes or coupons for discounts.
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
 - **Payment Authorization:**
@@ -103,6 +103,9 @@ The platform provides an order confirmation page and sends an email confirming t
 
 - **Tracking and Notifications:**
 Customers can track the status of their order through the platform. They may receive email or SMS notifications about order updates, shipping progress, and estimated delivery times.
+
+- **Receive product steps:**
+Receive the product from the transport company.
 
 ### Website
 
