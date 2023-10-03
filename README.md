@@ -94,7 +94,7 @@ Entering shipping information Selection of preferred shipping method and confirm
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
 - **Order Confirmation:**
-   - The platform provides an order confirmation page and sends an email confirming the purchase. This email typically includes order details, estimated delivery times, and a receipt.
+   - The platform has an order confirmation page and payment methods that generally include a method for notifying slips, bank accounts, account numbers, and order details..
 
      <img src="img/Checkout.5.png" alt="Shipping Detail" width="350" height="235">
 
