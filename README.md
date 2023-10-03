@@ -129,10 +129,6 @@ Continuously update product listings, descriptions, and images to reflect the la
 Add new products and remove discontinued ones.
 Manage other content such as blog posts, FAQs, and user-generated content.
 
-- Customer Support:
-Respond to customer inquiries, complaints, and requests for assistance through various channels (email, chat, phone).
-Handle returns and refunds in accordance with the website's policies.
-
 ### Admin
 
 The website admin process in an ecommerce platform involves managing and maintaining the platform to ensure that it runs smoothly and efficiently.
@@ -146,6 +142,9 @@ Process orders, update order statuses (e.g., processing, shipped), and generate 
 - Content Management:
 Update and maintain website content, including product descriptions, images, and pricing.
 Add blog posts, news, or other content to engage customers.
+
+- Customer Service:
+Respond to customer questions, complaints and requests for assistance through various channels (email, chat, phone). Manage product returns and refunds according to website policies.
 
 ### Delivery
 
