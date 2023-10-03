@@ -94,7 +94,7 @@ Entering shipping information Selection of preferred shipping method and confirm
 Review Order: Customers review their order, including the total cost, before finalizing the purchase.
 
 - **Order Confirmation:**
-   - The platform has an order confirmation page and payment methods that generally include a method for notifying slips, bank accounts, account numbers, and order details..
+   - The platform has an order confirmation page and money transfer channels. It generally consists of methods for notifying the slip, bank account, account number, and order details.
 
      <img src="img/Checkout.5.png" alt="Shipping Detail" width="350" height="235">
 
