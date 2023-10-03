@@ -99,7 +99,7 @@ Review Order: Customers review their order, including the total cost, before fin
      <img src="img/Checkout.5.png" alt="Shipping Detail" width="350" height="235">
 
 - **Payment Authorization:**
-   - The platform verifies the payment information and authorizes the transaction. If successful, the customer receives an order confirmation.
+   - The platform verifies the payment information and approves the transaction. If successful, the customer receives an order confirmation, typically consisting of order details. Estimated delivery time and invoice.
 
       <img src="img/Checkout.6.png" alt="Shipping Detail" width="350" height="235">
 
