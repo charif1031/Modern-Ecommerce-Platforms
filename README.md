@@ -7,7 +7,11 @@ The project features the development and launch of Shark, an innovative e-commer
 
 # Introduction
 
-Today, I'm excited to introduce you to our innovative and easy-to-use platform. It has changed the way we shop and do business. shark in this presentation We will explore the world of e-commerce. Dive deeper into shark's features and benefits and understand how it's shaping digital shopping.
+Today we'd like to introduce you to our innovative and easy-to-use platform. It has changed the way we shop and do business. Shark in this presentation We will explore the world of e-commerce. Delving deeper into Shark's features and benefits, we've demonstrated our professionalism by using tools like PDF Invoices & Packing Slips for WooCommerce and Akismet Anti-Spam to ensure a smooth shopping experience.
+
+We have also introduced Business Process Model and Notation (BPMN) diagrams to provide transparency about how our platform works. These diagrams show the interactions between the customer, website, administrator, and delivery process. Make it easy for everyone to understand our complex operations.
+
+
 
 # Software and Tools Used
 
