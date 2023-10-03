@@ -154,6 +154,8 @@ The shipping process is the final step of the shipping process where the shipped
 
 # conclusion
 
+In this presentation, we've introduced you to Shark, an innovative e-commerce platform focused on luxury resale and sustainability. We've highlighted the key software and tools we use, including Laragon, WordPress, WooCommerce, and essential plugins like PDF Invoices & Packing Slips for WooCommerce and Akismet Anti-Spam. These tools enable us to create a seamless and secure online marketplace.
+
 ## Author
 Charif Ulae  
 
